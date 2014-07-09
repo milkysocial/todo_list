@@ -8,13 +8,13 @@ Le but de cet exercice est de réaliser une application web permettant à des ut
 
 L'application doit être réalisée avec le framework Ruby on Rails, de préférence la dernière version. La base de données mise en place est de préférence [MongoDB](http://www.mongodb.org/).
 
-✭ [mongoid](https://github.com/mongoid/mongoid) est un bon ORM.
+✭ [mongoid](https://github.com/mongoid/mongoid) est un bon ORM pour MongoDB.
 
 L'interface est réalisée en HTML / CSS avec le kit [Bootstrap](http://getbootstrap.com/) ou tout autre framework CSS qui vous paraît approprié.
 
 ✭ [rails_layout](https://github.com/RailsApps/rails_layout) est une solution pour installer des frameworks CSS dans Rails.
 
-Les interactions de l'utilisateur avec l'interface sont gérées autant que possible avec [jQuery](http://jquery.com/).
+Les interactions de l'utilisateur avec l'interface sont gérées autant que possible avec jQuery.
 
 ## Fonctionnel
 
@@ -89,4 +89,8 @@ Les mockups fournis sont là à titre d'exemple et ne sont pas nécessairement e
 
 Les liens précisés avec ✭ sont des outils qui peuvent vous aider à réaliser l'application, mais vous pouvez très bien en utiliser d'autres, voire écrire les vôtres.
 
+### Références
 
+* [RailsGuides, la doc officielle très bien faîte](http://guides.rubyonrails.org/getting_started.html)
+* [Ruby on Rails tutorial by Michael Hartl](http://www.railstutorial.org/book)
+* [Un post sur AJAX et Rails](http://www.codebeerstartups.com/2012/12/ajaxify-your-site-with-remote-true)
